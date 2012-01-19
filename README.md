@@ -9,13 +9,6 @@
 
 ## Installing
 
-Use [Pathogen](http://github.com/tpope/vim-pathogen) and do:
-
-1. `cd ~/.vim`
-2. `git submodule add https://github.com/travisjeffery/vim-help
-   bundle/vim-help`
-3. `git submodule init`
+Use [Pathogen](http://github.com/tpope/vim-pathogen) 
 
 > — Travis Jeffery
-
-(Via: http://vim.wikia.com/wiki/Learn_to_use_help#Simplify_help_navigation)
